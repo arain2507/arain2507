@@ -1,5 +1,5 @@
-# 💫 About Me:
-🚀 I’m currently working on:<br>Developing a desktop application related to supply chain management (SCM) for my final year project.<br><br>🤝 I’m looking to collaborate on:<br>Projects involving Next.js, Python, C++, C#, or JavaScript, especially in web development and data science.<br><br>🙌 I’m looking for help with:<br>Enhancing my skills in AI, cybersecurity, and advanced supply chain optimization.<br><br>🌱 I’m currently learning:<br>Deepening my knowledge in Next.js, Python for data science, and cybersecurity.<br><br>💬 Ask me about:<br>Web development, data science, cybersecurity, and supply chain management.<br><br>⚡ Fun fact:<br>I can speak four languages (English, Urdu, Sindhi, Punjabi) and love exploring new tech trends!
+# 💫Hi! I'm Abrar Ahmed:
+🚀 I’m Currently Working on:<br>Developing a Desktop Application related to supply chain management (SCM) for my final year project.<br><br>🙌 I’m looking for help with:<br>Enhancing my skills in AI, cybersecurity, and advanced supply chain optimization.<br><br>🌱 I’m currently learning:<br>Deepening my knowledge in Next.js, Python for data science, and cybersecurity.<br><br>💬 Ask me about:<br>Web development, Data science, Cybersecurity.<br><br>⚡ Fun fact:<br>I can speak four languages (English, Urdu, Sindhi, Punjabi) and love exploring new tech trends!
 
 
 ## 🌐 Socials:
